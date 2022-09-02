@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogu89&label=Profile%20views&color=0e75b6&style=flat" alt="ogu89" /> </p> -->
 
-- 🔭 I’m currently working on **Online dating app and OOP**
+- 🔭 I’m currently working on **OOP**
 
-- 🌱 I’m currently learning **React and Django**
+- 🌱 I’m currently learning **Next.js & TS and Django**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
