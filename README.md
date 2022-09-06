@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **OOP**
 
-- 🌱 I’m currently learning **Next.js & TS and Django**
+- 🌱 I’m currently learning **Next.js & TS and Go**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
