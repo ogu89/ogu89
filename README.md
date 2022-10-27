@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **go-learn repository**
 
-- 🌱 I’m currently learning **Go and Next.js & TS**
+- 🌱 I’m currently learning **Go and Next & TypeScript**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
