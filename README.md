@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Go and Next & TypeScript**
 
+- 😄 Pronouns: All good
+
+- ⚡ Fun fact: Football, Cooking, Workout
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
