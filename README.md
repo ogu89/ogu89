@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Go and Next & TypeScript**
 
-- 😄 Pronouns: All good
+- 😄 Pronouns: He/him/his
 
 - ⚡ Fun fact: Football, Cooking, Workout
 
