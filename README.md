@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋,  I'm Ogu</h1>
-<h3 align="center">Junior Front-End Engineer</h3>
+<h3 align="center">Junior Front-End Engineer in Tokyo</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogu89&label=Profile%20views&color=0e75b6&style=flat" alt="ogu89" /> </p> -->
 
