@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/him
 
-- ⚡ Fun fact: Football, Cooking, Workout
+- ⚡ Fun fact: DJ, Football, Cooking, Workout
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
