@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **go-learn repository**
 
-- 🌱 I’m currently learning **Go and Next & TypeScript**
+- 🌱 I’m currently learning **Scala and Next & TypeScript**
 
 - 😄 Pronouns: He/him
 
