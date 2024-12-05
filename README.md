@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogu89&label=Profile%20views&color=0e75b6&style=flat" alt="ogu89" /> </p> -->
 
-- 🔭 I’m currently working on **Python-projects repository**
+<!--- 🔭 I’m currently working on **Python-projects repository** -->
 
-- 🌱 I’m currently learning **Nuxt and Go**
+- 🌱 I’m currently learning **Nuxt and Scala(Spring)**
 
 - 😄 Pronouns: He/him
 
