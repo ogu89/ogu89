@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on **Python-projects repository** -->
 
-- 🌱 I’m currently learning **Nuxt and Scala(Spring)**
+- 🌱 I’m currently learning ** Spring & Java **
 
 - 😄 Pronouns: He/him
 
